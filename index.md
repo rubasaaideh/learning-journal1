@@ -14,6 +14,15 @@ _People are born with unique genetic structures, meaning they are initially bett
 4. Add this three-letter word
 
 
+**How I Motivate My Self :-**
+
+1.failar is the first to success
+1.always in a challenge with my self
+1.always try to keeping going
+
+
+
+
 [MindSet Growth](https://www.renaissance.com/edwords/growth-mindset/)
 
 

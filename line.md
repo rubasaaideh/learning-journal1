@@ -5,7 +5,7 @@ While you can leave the GUI alltogether, most people open up a command line inte
 their desktop .
 !link(https://ryanstutorials.net/linuxtutorial/commandline.php)
 
-**Basic Navigation**
+# **Basic Navigation**
 he first command we are going to learn is pwd which stands for Print Working Directory.
 (You'll find that a lot of commands in linux are named as an abbreviation of a word or words 
 describing them. 

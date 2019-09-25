@@ -1,31 +1,21 @@
-## Welcome to My Journal
+## Welcome 
+
+**markdown :-**
+
+_What’s Markdown?
+Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
+
+Using Markdown is different than using a WYSIWYG editor. In an application like Microsoft Word, you click buttons to format words and phrases, and the changes are visible immediately. Markdown isn’t like that. When you create a Markdown-formatted file, you add Markdown syntax to the text to indicate which words and phrases should look different.
+
+For instance, to denote a heading, you add a number sign before it (e.g., # Heading One). Or to make a phrase bold, you add two asterisks before and after it (e.g., **this text is bold**). It may take a while to get used to seeing Markdown syntax in your text, especially if you’re accustomed to WYSIWYG applications. The screenshot below shows a Markdown file displayed in the Atom text edito._ 
 
 
-**MindSet :-**
-
-_People are born with unique genetic structures, meaning they are initially better than others at different things. However, those with a growth mindset believe that one can always improve, catch up, or even surpass others’ natural talents._ 
+ 
 
 
- ### Steps to Get the Right Mindset for Success
-
-1. Think of your mindset as a voice 
-2. Choose growth
-3. Talk back
-4. Add this three-letter word
+[markdwon](https://www.markdownguide.org/getting-started/)
 
 
-**How I Motivate My Self :-**
-
-1.failar is the first to success
-1.always in a challenge with my self
-1.always try to keeping going
-
-
-
-
-[MindSet Growth](https://www.renaissance.com/edwords/growth-mindset/)
-
-
-![Image](https://images.app.goo.gl/oSJ7Dp77HEdmzbjJ6)
+![img](https://d33wubrfki0l68.cloudfront.net/722f0d393d543949f94038accfbb3887ba9c318b/f6fc0/assets/images/atom.png)
 
 ```

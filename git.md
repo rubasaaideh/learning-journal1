@@ -18,7 +18,7 @@ distributed version control tools such as Subversion, Mercurial, ClearCase and I
 GitHub competes with cloud-based SaaS and PaaS offerings, such as GitLab and Atlassian's Bitbucket.-
 
 
-![img https://miro.medium.com/max/1200/1*9PnPjPI65fGwLiMfluVLrw.jpeg]
+![img](https://miro.medium.com/max/1200/1*9PnPjPI65fGwLiMfluVLrw.jpeg)
 
 **Learn more** about git and githuplink.[https://www.theserverside.com/video/Git-vs-GitHub-What-is-the-difference-between-them]
 thank for Read

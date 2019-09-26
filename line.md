@@ -1,11 +1,13 @@
-Welcome to growth middset Pages
+
+**A text editor** :
+is a type of computer program that edits plain text. Such programs are sometimes known as "notepad" software, following the naming of Microsoft Notepad. Text editors are provided with operating systems and software development packages, and can be used to change files such as configuration files, documentation files and programming language source code .
+
+ (Links to an external site.)In contrast, a text editor only does as its name describes and allows writing and making changes to the text. Once a programmer creates code in a text editor, they can then input the content into command-line windows.
+man:Get information or help about a command apropos:Locate commands by keyword look up ls:List directory contents pwd:Path of working directory cd:Change working directory mv:Move file or change name cp:Copy file mkdir:Make directory rm:Remove files and directories mount /mnt/zip:Mount zip disk on directory /mnt/zip
+(Links to an external site.)Learning Terminal
 
 
-Hello MY Name is ruba
+!link(https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
-You can use the [growth mindset] to The growth mindset can open pathways to more creativity and possibility, and enable the setting of higher goals and more achievementWhat is a growth mindset examples? Importantly, this will include examples of fixed mindset that you can practice reframing to be more growthy. … In a growth mindset, people believe that their most basic abilities can be developed, and improved upon, which creates a love of learning and a resilience
+![img](http://www.texthawk.com/images/screenshots/TextHawk.gif)
 
-file one markdown *markdown
-
-![img](https://i.github-camo.com/9b13e0b1b52087d328a56b46dd5c7e5db33a0674/68747470733a2f2f6769746875622e636f6d2f73687572636f6f4c2f61746f6d2d6d61726b646f776e2d666f726d61742f626c6f622f6d61737465722f44656d6f2e6769663f7261773d74727565)
-!link(https://en.wikipedia.org/wiki/Markdown)

@@ -1,15 +1,11 @@
-# ** The Command Line **
-The command line is an interesting beast, and if you've not used one before, can be a bit daunting. Don't worry, with a bit of 
-practice you'll soon come to see it as your friend. Don't think of it as leaving the GUI behind so much as adding to it. 
-While you can leave the GUI alltogether, most people open up a command line interface just as another window on 
-their desktop .
-!link(https://ryanstutorials.net/linuxtutorial/commandline.php)
-
-# **Basic Navigation**
-he first command we are going to learn is pwd which stands for Print Working Directory.
-(You'll find that a lot of commands in linux are named as an abbreviation of a word or words 
-describing them. 
-[markdwon]()
-![img](https://www.lifewire.com/thmb/1CebBWE4ohL3SuqWl6oNb4YA1q4=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/command-prompt-windows-10-5a46b95f494ec90036f044a5.PNG)
+Welcome to growth middset Pages
 
 
+Hello MY Name is ruba
+
+You can use the [growth mindset] to The growth mindset can open pathways to more creativity and possibility, and enable the setting of higher goals and more achievementWhat is a growth mindset examples? Importantly, this will include examples of fixed mindset that you can practice reframing to be more growthy. … In a growth mindset, people believe that their most basic abilities can be developed, and improved upon, which creates a love of learning and a resilience
+
+file one markdown *markdown
+
+![img](https://i.github-camo.com/9b13e0b1b52087d328a56b46dd5c7e5db33a0674/68747470733a2f2f6769746875622e636f6d2f73687572636f6f4c2f61746f6d2d6d61726b646f776e2d666f726d61742f626c6f622f6d61737465722f44656d6f2e6769663f7261773d74727565)
+!link(https://en.wikipedia.org/wiki/Markdown)
